@@ -1,0 +1,62 @@
+.contact-info-bar {
+  align-items: center;
+  margin-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-info-bar__phone {
+
+  align-items: center;
+  display: flex;
+}
+
+.contact-info-bar__phone-img {
+  margin-right: 7px;
+  align-items: center;
+  display:inline-block;
+}
+
+.contact-info-bar_text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #272727;
+  margin: 0;
+  padding-bottom: 3px;
+}
+
+.contact-info-bar_tel-number {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #272727;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.contact-info-bar__time {
+  align-items: center;
+  display: flex;
+}
+
+.contact-info-bar__time-img {
+  margin-right: 7px;
+}
+
+.contact-info-bar__time-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #00B007;
+  margin: 0;
+  padding-bottom: 3px;
+}
+
+.contact-info-bar__time-working{
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #272727;
+  margin: 0;
+}
